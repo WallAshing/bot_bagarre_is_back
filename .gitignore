@@ -1,0 +1,5 @@
+src/testing.js
+src/testing.ts
+node_modules
+.env
+build
